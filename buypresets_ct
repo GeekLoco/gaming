@@ -1,0 +1,104 @@
+"Presets"
+{
+	"1"
+	{
+		"PresetName"		"Rifle"
+		"version"		"4"
+		"primary"		"m4a1/1+"
+		"secondary"		"deagle/1+"
+		"equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+	}
+	"2"
+	{
+		"PresetName"		"Shotgun"
+		"version"		"4"
+		"primary"		"tmp/1+"
+		"secondary"		"usp/1+"
+		"equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+	}
+	"3"
+	{
+		"PresetName"		"Sniper"
+		"version"		"4"
+		"primary"		"scout/1+"
+		"secondary"		"usp/1+"
+		"equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+	}
+	"4"
+	{
+		"PresetName"		"Pistol_Only"
+		"version"		"4"
+		"primary"		"/"
+		"secondary"		"deagle/1+"
+		"equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+	}
+}
+
+// This file seems to be dynamic. I was in-game, updated this file remotely, and the next round of the same map the new
+//	settings were used without exiting the game or changing the map. -Loco 2011/04/06
+
+// This list of "buy aliases" is used by the AutoBuy system.
+
+// The available buy aliases and their names as shown on the buy menu are:
+// (Many weapons have more than one buy alias)
+
+//	PISTOLS
+
+// glock	- 9x19mm Sidearm	(T default starting pistol)
+// usp		- KM .45 Tactical	(CT default starting pistol)
+// p228		- 228 Compact
+// deagle	- Night Hawk .50C
+// fiveseven	- ES Five-Seven		(CT menu only)
+// elite	- .40 Dual Elites	(T menu only)
+
+//	SUB-MACHINE GUNS
+
+// mac10	- Ingram MAC-10			(T menu only)
+// tmp		- Schmidt Machine Pistol	(CT menu only)
+// mp5navy	- KM Sub-Machine Gun
+// ump45	- KM UMP45
+// p90		- ES C90
+
+//	SHOTGUNS
+
+// m3		- Leone 12 Gauge Super
+// xm1014	- Leone YG1265 Auto Shotgun
+
+//	RIFLES
+
+// galil	- IDF Defender			(T menu only)
+// ak47		- CV-47				(T menu only)
+// sg552	- Krieg 552			(T menu only)
+// famas	- Clarion 5.56			(CT menu only)
+// m4a1		- Maverick M4A1 Carbine		(CT menu only)
+// aug		- Bullpup			(CT menu only)
+
+//	SNIPER RIFLES
+
+// scout	- Schmidt Scout
+// awp		- Magnum Sniper Rifle
+// g3sg1	- D3/AU1			(T menu only)
+// sg550	- Krieg 550 Commando		(CT menu only)
+
+//	MACHINE GUNS
+
+// m249		- M249
+
+//	GRENADES
+
+// hegren	- HE Grenade
+// hegrenade	- HE Grenade
+// sgren	- Smoke Grenade
+// smokegrenade	- Smoke Grenade
+// flash	- Flashbang
+// flashbang	- Flashbang
+
+// vest		- Kevlar
+// vesthelm	- Kevlar+Helmet
+
+// defuser	- Defusal Kit
+// nvgs		- Nightvision
+
+// primammo	- Primary Ammo		- a few years ago, remember an update to CS:S where you no longer had to buy ammo at the start of a round.
+// secammo	- Secondary Ammo	- a few years ago, remember an update to CS:S where you no longer had to buy ammo at the start of a round.
+
